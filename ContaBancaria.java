@@ -1,10 +1,10 @@
 public class ContaBancaria {
-//atributos privados
+//informação privada
 private int numeroConta;
 private String titular;
 private double saldo;
 
-  //construtor
+  //informação dos construtor
   public ContaBancaria(int numeroConta, String  titular , double saldoInicial} {
      this.numeroConta = numeroConta;
      this.titular = titular;
